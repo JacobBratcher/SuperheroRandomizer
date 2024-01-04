@@ -1,0 +1,24 @@
+C:\Users\jjbra\source\repos\Program4\Program4\obj\Debug\Program4.csproj.AssemblyReference.cache
+C:\Users\jjbra\source\repos\Program4\Program4\obj\Debug\Program4.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjbra\source\repos\Program4\Program4\obj\Debug\Program4.csproj.CoreCompileInputs.cache
+C:\Users\jjbra\source\repos\Program4\Program4\bin\Debug\Program4.exe.config
+C:\Users\jjbra\source\repos\Program4\Program4\bin\Debug\Program4.exe
+C:\Users\jjbra\source\repos\Program4\Program4\bin\Debug\Program4.pdb
+C:\Users\jjbra\source\repos\Program4\Program4\obj\Debug\Program4.exe
+C:\Users\jjbra\source\repos\Program4\Program4\obj\Debug\Program4.pdb
+C:\Users\jjbra\OneDrive\Desktop\CIS 199\Program4\Program4\bin\Debug\Program4.exe.config
+C:\Users\jjbra\OneDrive\Desktop\CIS 199\Program4\Program4\bin\Debug\Program4.exe
+C:\Users\jjbra\OneDrive\Desktop\CIS 199\Program4\Program4\bin\Debug\Program4.pdb
+C:\Users\jjbra\OneDrive\Desktop\CIS 199\Program4\Program4\obj\Debug\Program4.csproj.AssemblyReference.cache
+C:\Users\jjbra\OneDrive\Desktop\CIS 199\Program4\Program4\obj\Debug\Program4.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjbra\OneDrive\Desktop\CIS 199\Program4\Program4\obj\Debug\Program4.csproj.CoreCompileInputs.cache
+C:\Users\jjbra\OneDrive\Desktop\CIS 199\Program4\Program4\obj\Debug\Program4.exe
+C:\Users\jjbra\OneDrive\Desktop\CIS 199\Program4\Program4\obj\Debug\Program4.pdb
+C:\Users\jjbra\OneDrive\Documents\CIS 199\Program4\Program4\bin\Debug\Program4.exe.config
+C:\Users\jjbra\OneDrive\Documents\CIS 199\Program4\Program4\bin\Debug\Program4.exe
+C:\Users\jjbra\OneDrive\Documents\CIS 199\Program4\Program4\bin\Debug\Program4.pdb
+C:\Users\jjbra\OneDrive\Documents\CIS 199\Program4\Program4\obj\Debug\Program4.csproj.AssemblyReference.cache
+C:\Users\jjbra\OneDrive\Documents\CIS 199\Program4\Program4\obj\Debug\Program4.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjbra\OneDrive\Documents\CIS 199\Program4\Program4\obj\Debug\Program4.csproj.CoreCompileInputs.cache
+C:\Users\jjbra\OneDrive\Documents\CIS 199\Program4\Program4\obj\Debug\Program4.exe
+C:\Users\jjbra\OneDrive\Documents\CIS 199\Program4\Program4\obj\Debug\Program4.pdb
